@@ -1,0 +1,35 @@
+
+HSV Range for various colours:
+
+lower_black = [0,0,0]
+upper_black = [250,255,30]
+
+lower_white = [0,0,255]
+upper_white = [0,0,255]
+
+lower_red = [0,150,50]
+upper_red = [10,255,255]
+
+lower_green = [45,150,50]
+upper_green = [65,255,255]
+
+lower_yellow = [25,150,50]
+upper_yellow = [35,255,255]
+
+lower_light_blue = [95,150,0]
+upper_light_blue = [110,255,255]
+
+lower_orange = [15,150,0]
+upper_orange = [25,255,255]
+
+lower_dark_pink = [160,150,0]
+upper_dark_pink = [170,255,255]
+
+lower_pink = [145,150,0]
+upper_pink = [155,255,255]
+
+lower_cyan = [85,150,0]
+upper_cyan = [95,255,255]
+
+lower_dark_blue = [115,150,0]
+upper_dark_blue = [125,255,255]
